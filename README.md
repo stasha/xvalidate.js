@@ -1,5 +1,6 @@
 # xvalidate.js
  xvalidate.js is just "extension" to validate.js (2.0.0) library.
+ 
  It enables:
  - defining inline rules directly on html element using standard HTML attributes,
    using data-{rule-name} attributes or just {rule-name} attributes.
