@@ -13,5 +13,6 @@
  - enabling/disabling validation
 
 
+
 Copyright (c) 2015 Stanislav Zorjan, http://www.stasha.info<br />
- xvalidate.js is open sourced under the MIT license.
+xvalidate.js is open sourced under the MIT license.
