@@ -1,0 +1,23 @@
+{
+  "name": "xvalidatejs",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "validation",
+    "validate.js",
+    "client",
+    "browser"
+  ],
+  "author": "stasha",
+  "contributors": [],
+  "scripts": {
+    "minify": "node .minify.js"
+  },
+  "main": "./xvalidate.js",
+  "devDependencies": {
+    "node-minify": "*"
+  },
+  "dependencies": {
+    "node-minify": "^1.3.6"
+  }
+}

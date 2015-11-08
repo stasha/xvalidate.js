@@ -1,0 +1,14 @@
+{
+    "name": "xvalidatejs",
+    "version": "1.0.0",
+    "main": "src/xvalidate.js",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+        "validatejs": "rickharrison/validate.js#df1325d78371715231c0758c3ca6466867209cf8"
+    },
+    "devDependencies": {
+    }
+}

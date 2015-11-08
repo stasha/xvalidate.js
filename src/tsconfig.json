@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "noImplicitAny": true,
+        "removeComments": false,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "outDir": "./",
+		"target": "ES5"
+    },
+    "exclude": [
+        "node_modules",
+        "bower_components"
+    ]
+}
