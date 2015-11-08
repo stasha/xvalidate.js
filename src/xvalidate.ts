@@ -2,16 +2,20 @@
 
 /**
  * @preserve
- * xvalidate.js is just "extension" to validate.js (2.0.0) library.
+ * https://github.com/stasha/xvalidate.js
+ * xvalidate.js is just "extension" to 
+ * validate.js (2.0.0) (https://github.com/rickharrison/validate.js) library.
  * 
  * It enables:
- *	- defining inline rules directly on html element using standard HTML attributes,
- *	  using data-{rule-name} attributes or just {rule-name} attributes.
- *	- validation while typing
- *	- postponing typing validation till the first submit
- *	- validation throttling while typing
- *	- displaying messages below input, above input or in some custom element.
- *	- enabling/disabling validation
+ * 
+ * - defining inline rules directly on html element using standard HTML attributes,
+ *   using data-{rule-name} attributes or just {rule-name} attributes.
+ * - validation while typing
+ * - postponing typing validation till the first submit
+ * - validation throttling while typing
+ * - displaying messages below input, above input or in other specified custom element.
+ * - specifying custom HTML messages and message template
+ * - enabling/disabling validation
  *	
  *	
  * Copyright (c) 2015 Stanislav Zorjan, http://www.stasha.info
