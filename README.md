@@ -10,7 +10,8 @@
  - postponing typing validation till the first submit
  - validation throttling while typing
  - displaying messages below input, above input or in other specified custom element.
- - enabling/disabling validation<br />
- 
- Copyright (c) 2015 Stanislav Zorjan, http://www.stasha.info<br />
+ - enabling/disabling validation
+
+
+Copyright (c) 2015 Stanislav Zorjan, http://www.stasha.info<br />
  xvalidate.js is open sourced under the MIT license.
