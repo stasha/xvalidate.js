@@ -13,7 +13,9 @@
  * - postponing typing validation till the first submit
  * - validation throttling while typing
  * - displaying messages below input, above input or in other specified custom element.
+ * - displaying message for first failed rule or all failed rules
  * - specifying custom HTML messages and message template
+ * - specifying custom error class
  * - enabling/disabling validation
  *
  *
