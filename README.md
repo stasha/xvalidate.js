@@ -10,6 +10,7 @@
  - postponing typing validation till the first submit
  - validation throttling while typing
  - displaying messages below input, above input or in other specified custom element.
+ - specifying custom HTML messages and message template
  - enabling/disabling validation
 
 
